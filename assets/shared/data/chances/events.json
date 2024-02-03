@@ -1,0 +1,111 @@
+{
+	"song": {
+		"events": [
+			[
+				65250,
+				[
+					[
+						"Image Appearance",
+						"spiritdadtext1",
+						"5"
+					]
+				]
+			],
+			[
+				69300,
+				[
+					[
+						"Image Appearance",
+						"spiritdadtext2",
+						"5"
+					]
+				]
+			],
+			[
+				72150,
+				[
+					[
+						"Image Appearance",
+						"spiritbftext1",
+						"5"
+					]
+				]
+			],
+			[
+				74850,
+				[
+					[
+						"Image Appearance",
+						"spiritbftext2",
+						"5"
+					]
+				]
+			],
+			[
+				81150,
+				[
+					[
+						"Flash",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				81300,
+				[
+					[
+						"Swap Circle 2 BG",
+						"0",
+						"1"
+					]
+				]
+			],
+			[
+				81600,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-spirit-1"
+					],
+					[
+						"Change Character",
+						"0",
+						"bf-spirit"
+					],
+					[
+						"Change Character",
+						"2",
+						"gf-blank"
+					],
+					[
+						"onBeat",
+						"true",
+						""
+					]
+				]
+			],
+			[
+				267000,
+				[
+					[
+						"Image Appearance",
+						"spiritbftext3",
+						"5"
+					]
+				]
+			],
+			[
+				271650,
+				[
+					[
+						"Image Appearance",
+						"spiritbftext4",
+						"5"
+					]
+				]
+			]
+		]
+	}
+}

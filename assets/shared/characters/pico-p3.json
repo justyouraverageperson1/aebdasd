@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				3,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Pico Idle Dance"
+		},
+		{
+			"offsets": [
+				11,
+				182
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "pico Up note0"
+		},
+		{
+			"offsets": [
+				-52,
+				-77
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Pico Down Note0"
+		},
+		{
+			"offsets": [
+				260,
+				-5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "a1",
+			"indices": [],
+			"name": "armed"
+		},
+		{
+			"offsets": [
+				610,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "a2",
+			"indices": [],
+			"name": "att1"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				513,
+				2
+			],
+			"anim": "a3",
+			"fps": 24,
+			"name": "att2",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				850,
+				-2
+			],
+			"anim": "a4",
+			"fps": 24,
+			"name": "blast",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-14
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Pico NOTE LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				-37
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Pico Note Right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/Pico_FNF_assetss-reshade 3",
+	"position": [
+		0,
+		300
+	],
+	"healthicon": "picos",
+	"flip_x": false,
+	"healthbar_colors": [
+		34,
+		27,
+		48
+	],
+	"camera_position": [
+		220,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

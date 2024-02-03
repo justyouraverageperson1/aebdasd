@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-corrupt.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CGF Idle0000" x="0" y="0" width="421" height="528" pivotX="33.25" pivotY="-16.35" frameX="0" frameY="-11" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0001" x="0" y="0" width="421" height="528" frameX="0" frameY="-11" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0002" x="421" y="0" width="407" height="530" frameX="-13" frameY="-10" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0003" x="421" y="0" width="407" height="530" frameX="-13" frameY="-10" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0004" x="828" y="0" width="395" height="538" frameX="-20" frameY="-2" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0005" x="828" y="0" width="395" height="538" frameX="-20" frameY="-2" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0006" x="1223" y="0" width="407" height="539" frameX="-15" frameY="-1" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0007" x="1223" y="0" width="407" height="539" frameX="-15" frameY="-1" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0008" x="1630" y="0" width="410" height="540" frameX="-17" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0009" x="1630" y="0" width="410" height="540" frameX="-17" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0010" x="0" y="540" width="407" height="540" frameX="-20" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0011" x="0" y="540" width="407" height="540" frameX="-20" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0012" x="407" y="540" width="407" height="540" frameX="-20" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0013" x="407" y="540" width="407" height="540" frameX="-20" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Idle0014" x="0" y="540" width="407" height="540" frameX="-20" frameY="0" frameWidth="427" frameHeight="540"/>
+	<SubTexture name="CGF Note DOWN0000" x="814" y="540" width="405" height="534" pivotX="174.25" pivotY="214.4" frameX="-11" frameY="-3" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0001" x="814" y="540" width="405" height="534" frameX="-11" frameY="-3" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0002" x="1219" y="540" width="408" height="537" frameX="-8" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0003" x="1219" y="540" width="408" height="537" frameX="-8" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0004" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0005" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0006" x="0" y="1080" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0007" x="0" y="1080" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0008" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0009" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0010" x="0" y="1080" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0011" x="0" y="1080" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0012" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0013" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0014" x="0" y="1080" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0015" x="0" y="1080" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note DOWN0016" x="1627" y="540" width="414" height="537" frameX="0" frameY="0" frameWidth="416" frameHeight="537"/>
+	<SubTexture name="CGF Note LEFT0000" x="414" y="1080" width="414" height="542" pivotX="68.3" pivotY="46.25" frameX="0" frameY="0" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0001" x="414" y="1080" width="414" height="542" frameX="0" frameY="0" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0002" x="828" y="1080" width="409" height="541" frameX="-7" frameY="-1" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0003" x="828" y="1080" width="409" height="541" frameX="-7" frameY="-1" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0004" x="1237" y="1080" width="402" height="540" frameX="-15" frameY="-2" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0005" x="1237" y="1080" width="402" height="540" frameX="-15" frameY="-2" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0006" x="1639" y="1080" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0007" x="1639" y="1080" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0008" x="0" y="1622" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0009" x="0" y="1622" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0010" x="1639" y="1080" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0011" x="1639" y="1080" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0012" x="0" y="1622" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0013" x="0" y="1622" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0014" x="1639" y="1080" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0015" x="1639" y="1080" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note LEFT0016" x="0" y="1622" width="399" height="539" frameX="-19" frameY="-3" frameWidth="418" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0000" x="399" y="1622" width="409" height="542" pivotX="66.95" pivotY="46.2" frameX="0" frameY="0" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0001" x="399" y="1622" width="409" height="542" frameX="0" frameY="0" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0002" x="808" y="1622" width="402" height="541" frameX="-8" frameY="-1" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0003" x="808" y="1622" width="402" height="541" frameX="-8" frameY="-1" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0004" x="1210" y="1622" width="397" height="540" frameX="-14" frameY="-2" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0005" x="1210" y="1622" width="397" height="540" frameX="-14" frameY="-2" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0006" x="1607" y="1622" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0007" x="1607" y="1622" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0008" x="0" y="2164" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0009" x="0" y="2164" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0010" x="1607" y="1622" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0011" x="1607" y="1622" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0012" x="0" y="2164" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0013" x="0" y="2164" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0014" x="1607" y="1622" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0015" x="1607" y="1622" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note RIGHT0016" x="0" y="2164" width="393" height="539" frameX="-19" frameY="-3" frameWidth="412" frameHeight="542"/>
+	<SubTexture name="CGF Note UP0000" x="393" y="2164" width="427" height="541" pivotX="68.55" pivotY="45.95"/>
+	<SubTexture name="CGF Note UP0001" x="393" y="2164" width="427" height="541"/>
+	<SubTexture name="CGF Note UP0002" x="820" y="2164" width="423" height="538" frameX="-4" frameY="-3" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0003" x="820" y="2164" width="423" height="538" frameX="-4" frameY="-3" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0004" x="1243" y="2164" width="417" height="536" frameX="-10" frameY="-4" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0005" x="1243" y="2164" width="417" height="536" frameX="-10" frameY="-4" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0006" x="0" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0007" x="0" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0008" x="412" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0009" x="412" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0010" x="0" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0011" x="0" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0012" x="412" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0013" x="412" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0014" x="0" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0015" x="0" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+	<SubTexture name="CGF Note UP0016" x="412" y="2705" width="412" height="534" frameX="-12" frameY="-6" frameWidth="427" frameHeight="541"/>
+</TextureAtlas>

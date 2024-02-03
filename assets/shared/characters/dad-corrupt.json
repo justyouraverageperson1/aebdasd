@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				-210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CGF Idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				55,
+				-213
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "CGF Note DOWN"
+		},
+		{
+			"offsets": [
+				50,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "CGF Note RIGHT"
+		},
+		{
+			"offsets": [
+				60,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "CGF Note UP"
+		},
+		{
+			"offsets": [
+				50,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "CGF Note LEFT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gr-circle",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf-evil",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		150
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dad-aff.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10000" x="0" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10001" x="449" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10002" x="898" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10003" x="1347" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10004" x="1796" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10005" x="2245" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10006" x="2694" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10007" x="3143" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10008" x="3592" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10009" x="4041" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10010" x="4490" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10011" x="4939" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10012" x="5388" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10013" x="5837" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10014" x="6286" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10015" x="6735" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10016" x="7184" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10017" x="7633" y="0" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE RIGHT Corrupt1 instance 10018" x="0" y="780" width="449" height="780"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10000" x="449" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10001" x="862" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10002" x="1275" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10003" x="1688" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10004" x="2101" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10005" x="2514" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10006" x="2927" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10007" x="3340" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10008" x="3753" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10009" x="4166" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10010" x="4579" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10011" x="4992" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10012" x="5405" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10013" x="5818" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10014" x="6231" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10015" x="6644" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10016" x="7057" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10017" x="7470" y="780" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10018" x="0" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10019" x="413" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10020" x="826" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10021" x="1239" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10022" x="1652" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10023" x="2065" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10024" x="2478" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10025" x="2891" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10026" x="3304" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10027" x="3717" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10028" x="4130" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10029" x="4543" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10030" x="4956" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10031" x="5369" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10032" x="5782" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10033" x="6195" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10034" x="6608" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10035" x="7021" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10036" x="7434" y="1590" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10037" x="0" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10038" x="413" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10039" x="826" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10040" x="1239" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10041" x="1652" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10042" x="2065" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10043" x="2478" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10044" x="2891" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10045" x="3304" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10046" x="3717" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10047" x="4130" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10048" x="4543" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10049" x="4956" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10050" x="5369" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10051" x="5782" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10052" x="6195" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10053" x="6608" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10054" x="7021" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10055" x="7434" y="2400" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10056" x="0" y="3210" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10057" x="413" y="3210" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10058" x="826" y="3210" width="413" height="810"/>
+	<SubTexture name="Dad Sing NOTE UP Corrupt1 instance 10059" x="1239" y="3210" width="413" height="810"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10000" x="1652" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10001" x="2115" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10002" x="2578" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10003" x="3041" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10004" x="3504" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10005" x="3967" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10006" x="4430" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10007" x="4893" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10008" x="5356" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10009" x="5819" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10010" x="6282" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10011" x="6745" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10012" x="7208" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10013" x="7671" y="3210" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10014" x="0" y="4020" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note DOWN Corrupt1 instance 10015" x="463" y="4020" width="463" height="756"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10000" x="926" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10001" x="1300" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10002" x="1674" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10003" x="2048" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10004" x="2422" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10005" x="2796" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10006" x="3170" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10007" x="3544" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10008" x="3918" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10009" x="4292" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10010" x="4666" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10011" x="5040" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10012" x="5414" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10013" x="5788" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10014" x="6162" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad Sing Note LEFT Corrupt1 instance 10015" x="6536" y="4020" width="374" height="767"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10000" x="6910" y="4020" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10001" x="7323" y="4020" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10002" x="7736" y="4020" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10003" x="0" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10004" x="413" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10005" x="826" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10006" x="1239" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10007" x="1652" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10008" x="2065" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10009" x="2478" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10010" x="2891" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10011" x="3304" y="4787" width="413" height="759"/>
+	<SubTexture name="Dad idle dance Corrupt1 instance 10012" x="3717" y="4787" width="413" height="759"/>
+</TextureAtlas>

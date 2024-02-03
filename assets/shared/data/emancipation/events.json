@@ -1,0 +1,81 @@
+{
+	"song": {
+		"events": [
+			[
+				11900,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				24700,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				43900,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				125500,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				155900,
+				[
+					[
+						"Play Animation",
+						"RELOAD",
+						"Dad"
+					]
+				]
+			],
+			[
+				156800,
+				[
+					[
+						"Play Animation",
+						"shoot",
+						"dad"
+					],
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			]
+		]
+	}
+}

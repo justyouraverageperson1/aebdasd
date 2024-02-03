@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				41,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BALLER_LEFT"
+		},
+		{
+			"offsets": [
+				41,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALLER_DOWN"
+		},
+		{
+			"offsets": [
+				55,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BALLER_RIGHT"
+		},
+		{
+			"offsets": [
+				71,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALLER_UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				81,
+				71
+			],
+			"anim": "THROW",
+			"fps": 24,
+			"name": "BALLER_THROW",
+			"indices": []
+		},
+		{
+			"offsets": [
+				61,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALLER_IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BALLER-bf-2",
+	"position": [
+		-80,
+		250
+	],
+	"healthicon": "bf-dad-bside",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

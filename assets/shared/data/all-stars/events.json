@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				27200,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						".5"
+					]
+				]
+			],
+			[
+				107200,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-blank"
+					],
+					[
+						"Change Character",
+						"dad",
+						"mom-dad"
+					]
+				]
+			],
+			[
+				158300,
+				[
+					[
+						"Change Character",
+						"gf",
+						"pico-spooky"
+					]
+				]
+			],
+			[
+				226700,
+				[
+					[
+						"Change Character",
+						"dad",
+						"cgf"
+					],
+					[
+						"Change Character",
+						"gf",
+						"bf-blank"
+					]
+				]
+			]
+		]
+	}
+}

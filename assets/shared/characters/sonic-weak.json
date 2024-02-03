@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				320,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALLER_DOWN"
+		},
+		{
+			"offsets": [
+				333,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BALLER_RIGHT"
+		},
+		{
+			"offsets": [
+				300,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALLER_UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				336,
+				100
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BALLER_LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				326,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALLER_IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ballerpissednew",
+	"position": [
+		-80,
+		250
+	],
+	"healthicon": "baller",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		-70,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

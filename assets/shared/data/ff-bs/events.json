@@ -1,0 +1,236 @@
+{
+	"song": {
+		"events": [
+			[
+				43750,
+				[
+					[
+						"Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				43833.3333333333,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-pissedbs"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-bs"
+					]
+				]
+			],
+			[
+				43916.6666666667,
+				[
+					[
+						"Change Character",
+						"dad",
+						"dad-pissedbs"
+					]
+				]
+			],
+			[
+				44333.3333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				87916.6666666666,
+				[
+					[
+						"Change Character",
+						"0",
+						"pico-dadbs"
+					]
+				]
+			],
+			[
+				122583.333333333,
+				[
+					[
+						"Change Character",
+						"0",
+						"spooky-corruptbs"
+					]
+				]
+			],
+			[
+				177083.333333333,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-mombs"
+					]
+				]
+			],
+			[
+				177166.666666667,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-mombs"
+					]
+				]
+			],
+			[
+				177250,
+				[
+					[
+						"Change Character",
+						"0",
+						"mom-dadbs"
+					]
+				]
+			],
+			[
+				241333.333333334,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				245083.333333334,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bf1-bs"
+					]
+				]
+			],
+			[
+				245166.666666667,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf1bs"
+					]
+				]
+			],
+			[
+				245250.000000001,
+				[
+					[
+						"Change Character",
+						"0",
+						"bf-bs"
+					]
+				]
+			],
+			[
+				288000,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				357333.333333333,
+				[
+					[
+						"Set Cam Zoom",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				359999.999999999,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bf2-bs"
+					]
+				]
+			],
+			[
+				359999.999999999,
+				[
+					[
+						"Add Camera Flash",
+						"",
+						""
+					]
+				]
+			],
+			[
+				359999.999999999,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf2bs"
+					]
+				]
+			],
+			[
+				362654.166666666,
+				[
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.04"
+					],
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				362666.666666666,
+				[
+					[
+						"Change Character",
+						"1",
+						"dad-bf3bs"
+					]
+				]
+			],
+			[
+				362749.999999999,
+				[
+					[
+						"Change Character",
+						"2",
+						"gf-bf3bs"
+					]
+				]
+			],
+			[
+				417833.333333332,
+				[
+					[
+						"Change Character",
+						"1",
+						"cballer-bs"
+					]
+				]
+			]
+		]
+	}
+}

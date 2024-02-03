@@ -1,0 +1,61 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"ChangeSecondaryCharacter",
+						"ballermad2",
+						"bf-blank"
+					]
+				]
+			],
+			[
+				88628.5714285713,
+				[
+					[
+						"Change Character",
+						"bf",
+						"spiritgf2"
+					],
+					[
+						"Change Character",
+						"dad",
+						"ballerbf2"
+					],
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				88714.2857142856,
+				[
+					[
+						"ChangeSecondaryCharacter",
+						"ballermad2",
+						"ballermad2"
+					]
+				]
+			],
+			[
+				178285.714285714,
+				[
+					[
+						"Change Character",
+						"dad",
+						"baller"
+					],
+					[
+						"Red Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BALLER_LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				49,
+				6
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BALLER_DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				8
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BALLER_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				45,
+				61
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BALLER_UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				111,
+				87
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "THROW",
+			"indices": [],
+			"name": "BALLER_THROW"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				61,
+				29
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BALLER_IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BALLER-mom",
+	"position": [
+		-80,
+		250
+	],
+	"healthicon": "bf-dad-bside",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

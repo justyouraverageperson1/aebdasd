@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				171,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BALLER_LEFT"
+		},
+		{
+			"offsets": [
+				169,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALLER_DOWN"
+		},
+		{
+			"offsets": [
+				188,
+				8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BALLER_RIGHT"
+		},
+		{
+			"offsets": [
+				205,
+				61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALLER_UP"
+		},
+		{
+			"offsets": [
+				181,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALLER_IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cBALLER-dark",
+	"position": [
+		0,
+		250
+	],
+	"healthicon": "bf-old",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

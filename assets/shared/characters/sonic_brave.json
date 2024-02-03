@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				270,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALLER_DOWN"
+		},
+		{
+			"offsets": [
+				333,
+				27
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BALLER_RIGHT"
+		},
+		{
+			"offsets": [
+				290,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALLER_UP"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				286,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BALLER_LEFT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				256,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALLER_IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NBALLER",
+	"position": [
+		-80,
+		250
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		-70,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				125
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "BF idle dance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				44,
+				84
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BF NOTE DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				25,
+				156
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BF NOTE UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				10,
+				119
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "BF NOTE LEFT"
+		},
+		{
+			"offsets": [
+				80,
+				120
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "BF NOTE RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/beefres2",
+	"position": [
+		30,
+		400
+	],
+	"healthicon": "bf-1",
+	"flip_x": true,
+	"healthbar_colors": [
+		11,
+		0,
+		20
+	],
+	"camera_position": [
+		20,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

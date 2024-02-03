@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				-30,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				-62,
+				129
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mom Up Pose"
+		},
+		{
+			"offsets": [
+				191,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Mom Pose Left"
+		},
+		{
+			"offsets": [
+				-109,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Mom Left Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				65
+			],
+			"anim": "stare",
+			"fps": 24,
+			"name": "she angy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mom-dark",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "moma",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		26,
+		47
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

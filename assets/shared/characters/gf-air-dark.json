@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-240
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "BGF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-242
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "BGF Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				9,
+				-234
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "BGF Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-238
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BGF Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-242
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BGF Note LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/circle/gf-darkness",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		100
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

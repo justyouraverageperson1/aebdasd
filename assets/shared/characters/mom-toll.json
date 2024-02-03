@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-81,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Mom Idle"
+		},
+		{
+			"offsets": [
+				-40,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "MOM DOWN POSE"
+		},
+		{
+			"offsets": [
+				-40,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Mom Up Pose"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				101,
+				38
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Mom Left Pose",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Mom Pose Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "she angy",
+			"indices": [],
+			"name": "she angy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mom-toll",
+	"position": [
+		0,
+		20
+	],
+	"healthicon": "momd1",
+	"flip_x": false,
+	"healthbar_colors": [
+		31,
+		26,
+		47
+	],
+	"camera_position": [
+		240,
+		120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

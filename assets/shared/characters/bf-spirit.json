@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				49,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BALLER_DOWN"
+		},
+		{
+			"offsets": [
+				45,
+				51
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BALLER_UP"
+		},
+		{
+			"offsets": [
+				41,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BALLER_IDLE"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "BALLER_RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				78
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "BALLER_LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BALLERaf",
+	"position": [
+		-20,
+		250
+	],
+	"healthicon": "dad-2-5",
+	"flip_x": false,
+	"healthbar_colors": [
+		238,
+		21,
+		54
+	],
+	"camera_position": [
+		0,
+		-120
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

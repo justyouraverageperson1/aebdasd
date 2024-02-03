@@ -1,0 +1,101 @@
+{
+	"song": {
+		"events": [
+			[
+				83478.2608695652,
+				[
+					[
+						"Change Character",
+						"bf",
+						"baller-air-2"
+					]
+				]
+			],
+			[
+				133173.913043478,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-blank"
+					]
+				]
+			],
+			[
+				133565.217391304,
+				[
+					[
+						"Stage Switch",
+						"stage-circle",
+						""
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"mom-toll",
+						"mom-air-dark"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"dad-circlea",
+						"dad-air-dark"
+					],
+					[
+						"Change Character",
+						"gf",
+						"gf-air-dark"
+					],
+					[
+						"Change Character",
+						"dad",
+						"bf-airglow"
+					]
+				]
+			],
+			[
+				174913.043478261,
+				[
+					[
+						"Flash",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"baller"
+					]
+				]
+			],
+			[
+				175043.47826087,
+				[
+					[
+						"Change Character",
+						"gf",
+						"gf-b3"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"mom-air-dark",
+						"momd3-3"
+					],
+					[
+						"ChangeSecondaryCharacter",
+						"dad-air-dark",
+						"dad-air2"
+					]
+				]
+			],
+			[
+				175173.913043478,
+				[
+					[
+						"Screen Shake",
+						"48,0.007",
+						"48,0.007"
+					]
+				]
+			]
+		]
+	}
+}

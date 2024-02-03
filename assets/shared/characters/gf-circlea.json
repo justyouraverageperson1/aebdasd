@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				60,
+				-210
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "CGF Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-213
+			],
+			"anim": "SingDOWN",
+			"fps": 24,
+			"name": "CGF Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				56,
+				-210
+			],
+			"anim": "SingUP",
+			"fps": 24,
+			"name": "CGF Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				-210
+			],
+			"anim": "SingRIGHT",
+			"fps": 24,
+			"name": "CGF Note RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				50,
+				-207
+			],
+			"anim": "SingLEFT",
+			"fps": 24,
+			"name": "CGF Note LEFT",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gr-circle",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf-evil",
+	"flip_x": true,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

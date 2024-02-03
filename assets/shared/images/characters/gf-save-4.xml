@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gf-6-1.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGF IdleNormal0000" x="0" y="0" width="309" height="430" pivotX="-27.45" pivotY="-64.7" frameX="0" frameY="-11" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0001" x="0" y="0" width="309" height="430" frameX="0" frameY="-11" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0002" x="309" y="0" width="301" height="431" frameX="-4" frameY="-11" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0003" x="309" y="0" width="301" height="431" frameX="-4" frameY="-11" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0004" x="610" y="0" width="305" height="441" frameX="-1" frameY="-2" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0005" x="610" y="0" width="305" height="441" frameX="-1" frameY="-2" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0006" x="915" y="0" width="298" height="442" frameX="-8" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0007" x="915" y="0" width="298" height="442" frameX="-8" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0008" x="1213" y="0" width="300" height="443" frameX="-12" frameY="0" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0009" x="1213" y="0" width="300" height="443" frameX="-12" frameY="0" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0010" x="1513" y="0" width="298" height="442" frameX="-13" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0011" x="1513" y="0" width="298" height="442" frameX="-13" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0012" x="1513" y="0" width="298" height="442" frameX="-13" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0013" x="1513" y="0" width="298" height="442" frameX="-13" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF IdleNormal0014" x="1513" y="0" width="298" height="442" frameX="-13" frameY="-1" frameWidth="312" frameHeight="443"/>
+	<SubTexture name="BGF Note DOWNNormal0000" x="0" y="443" width="297" height="437" pivotX="115.2" pivotY="166.5" frameX="-6" frameY="-3" frameWidth="303" frameHeight="440"/>
+	<SubTexture name="BGF Note DOWNNormal0001" x="0" y="443" width="297" height="437" frameX="-6" frameY="-3" frameWidth="303" frameHeight="440"/>
+	<SubTexture name="BGF Note DOWNNormal0002" x="297" y="443" width="299" height="439" frameX="-4" frameY="-1" frameWidth="303" frameHeight="440"/>
+	<SubTexture name="BGF Note DOWNNormal0003" x="297" y="443" width="299" height="439" frameX="-4" frameY="-1" frameWidth="303" frameHeight="440"/>
+	<SubTexture name="BGF Note DOWNNormal0004" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0005" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0006" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0007" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0008" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0009" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0010" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0011" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0012" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0013" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0014" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0015" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note DOWNNormal0016" x="596" y="443" width="303" height="440"/>
+	<SubTexture name="BGF Note LEFTNormal0000" x="899" y="443" width="302" height="445" pivotX="8.9" pivotY="-1.65" frameX="0" frameY="0" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0001" x="899" y="443" width="302" height="445" frameX="0" frameY="0" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0002" x="1201" y="443" width="299" height="444" frameX="-3" frameY="-1" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0003" x="1201" y="443" width="299" height="444" frameX="-3" frameY="-1" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0004" x="1500" y="443" width="297" height="442" frameX="-7" frameY="-3" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0005" x="1500" y="443" width="297" height="442" frameX="-7" frameY="-3" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0006" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0007" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0008" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0009" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0010" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0011" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0012" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0013" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0014" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0015" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note LEFTNormal0016" x="0" y="888" width="298" height="441" frameX="-8" frameY="-4" frameWidth="306" frameHeight="445"/>
+	<SubTexture name="BGF Note RIGHTNormal0000" x="298" y="888" width="301" height="444" pivotX="10.75" pivotY="-2.1" frameX="0" frameY="0" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0001" x="298" y="888" width="301" height="444" frameX="0" frameY="0" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0002" x="599" y="888" width="299" height="443" frameX="-2" frameY="-1" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0003" x="599" y="888" width="299" height="443" frameX="-2" frameY="-1" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0004" x="898" y="888" width="304" height="442" frameX="0" frameY="-2" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0005" x="898" y="888" width="304" height="442" frameX="0" frameY="-2" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0006" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0007" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0008" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0009" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0010" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0011" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0012" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0013" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0014" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0015" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note RIGHTNormal0016" x="1202" y="888" width="306" height="441" frameX="0" frameY="-3" frameWidth="306" frameHeight="444"/>
+	<SubTexture name="BGF Note UPNormal0000" x="1508" y="888" width="319" height="446" pivotX="6.5" pivotY="-0.5"/>
+	<SubTexture name="BGF Note UPNormal0001" x="1508" y="888" width="319" height="446"/>
+	<SubTexture name="BGF Note UPNormal0002" x="0" y="1334" width="313" height="442" frameX="-4" frameY="-4" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0003" x="0" y="1334" width="313" height="442" frameX="-4" frameY="-4" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0004" x="313" y="1334" width="305" height="439" frameX="-8" frameY="-6" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0005" x="313" y="1334" width="305" height="439" frameX="-8" frameY="-6" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0006" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0007" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0008" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0009" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0010" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0011" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0012" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0013" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0014" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0015" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+	<SubTexture name="BGF Note UPNormal0016" x="618" y="1334" width="302" height="437" frameX="-7" frameY="-8" frameWidth="319" frameHeight="446"/>
+</TextureAtlas>
